@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+adult.csv
+ml_mds_lab_project.pdf
+ML_project_proposal.pdf
