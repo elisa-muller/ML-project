@@ -219,3 +219,11 @@ __marimo__/
 adult.csv
 ml_mds_lab_project.pdf
 ML_project_proposal.pdf
+
+
+# Preprocessed data outputs
+adult_X_train.csv
+adult_X_test.csv
+adult_y_train.csv
+adult_y_test.csv
+preprocessor.joblib
